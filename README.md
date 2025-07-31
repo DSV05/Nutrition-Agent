@@ -39,6 +39,11 @@ Continuous Feedback Loop (User Interaction & Learning)
 
 
 <img width="1344" height="581" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/8cadc7ed-27ef-48b0-888f-2d3862a07537" />
+<img width="1366" height="586" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/f6858cb4-d14c-499d-b611-ccecbe30e1b7" />
+<img width="1366" height="596" alt="Screenshot (168)" src="https://github.com/user-attachments/assets/7e2479ba-1e4f-4d25-9700-15268cabd489" />
+<img width="1366" height="581" alt="Screenshot (169)" src="https://github.com/user-attachments/assets/0d3ddb34-50b8-4476-9d0c-db49c0fa292e" />
+
+
 
 🧑‍💻 Developed By:-
 
