@@ -33,7 +33,6 @@ Continuous Feedback Loop (User Interaction & Learning)
 - IBM watsonx.ai
 - IBM Granite Foundation Models
 - Python, Flask (for API backend)
-- HTML/CSS/JavaScript (for frontend demo)
 - Cloudant DB (optional user profile storage)
 
 
