@@ -48,7 +48,7 @@ Continuous Feedback Loop (User Interaction & Learning)
 🧑‍💻 Developed By:-
 
 Siddivinayak Doppalapudi
-B.Tech CSE (AI), Ganpat University (UVPCE)
+B.Tech CE (AI), Ganpat University (UVPCE)
 
 🏆 Certifications:-
 
